@@ -4,7 +4,7 @@
 
 You can open this sample in the Dev Environments feature of Docker Desktop version 4.12 or later.
 
-[Open in Docker Dev Environments <img src="../open_in_new.svg" alt="Open in Docker Dev Environments" align="top"/>](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/flask)
+[Open in Docker Dev Environments](https://open.docker.com/dashboard/dev-envs?url=https://github.com/docker/awesome-compose/tree/master/flask)
 
 ### Python/Flask application
 
@@ -62,3 +62,18 @@ Stop and remove the containers
 ```
 $ docker compose down
 ```
+
+## Guias para instalar/configurar requerimientos del proyecto
+
+- [Agregar nueva clave ssh](https://github.com/itec-sitec/Sitec2022-doc/blob/main/guides/add_ssh_key.md)
+
+> Requerida para poder trabajar con el repositorio
+
+- [Instalación de Docker](https://github.com/itec-sitec/Sitec2022-doc/blob/main/guides/docker_instalation_ubuntu.md)
+
+> Requerida porque el proyecto esta basado en docker
+
+
+## Referencias
+
+- Guía para crear el proyecto: https://github.com/docker/awesome-compose
